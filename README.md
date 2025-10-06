@@ -32,7 +32,7 @@ Smart Code Studio is a next-generation, browser-based development environment th
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/smart-code-studio.git
+   git clone https://github.com/dilanmelvin/Smart-Code-Studio.git
    cd smart-code-studio
    ```
 
